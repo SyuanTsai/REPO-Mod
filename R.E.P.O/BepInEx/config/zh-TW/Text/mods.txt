@@ -1,0 +1,47 @@
+Color [BLUE]=顏色[藍色]
+Color [GREEN]=顏色[綠色]
+Color [RED]=顏色[紅色]
+<b>FOCUS > </b>欢迎使用由CO2赞助的怪物血量MOD by小海=<b>重點 > </b>歡迎使用由 CO₂ 贊助的怪物血量 MOD，由小海製作
+<b>FOCUS > </b>COLOR EFFECT DISABLED=<b>重點 > </b>已禁用顏色效果
+<b>FOCUS > </b>COLOR EFFECT ENABLED=<b>重點 > </b>已啟用顏色效果
+<b>FOCUS > </b>MODE: POLICESIREN=<b> focus> </b>模式：警笛
+<b>FOCUS > </b>MODE: STROBE=<b>重點> </b>模式：頻閃
+<b>FOCUS > </b>MODE: RANDOM=<b>重點> </b>模式：隨機
+<b>FOCUS > </b>MODE: RAINBOW=<b>重點> </b>模式：彩虹
+<b>FOCUS > </b>MODE: MATRIX=<b>重點> </b>模式：矩陣
+
+SERVER LIST=伺服器列表
+Connect to the friend=連接到好友
+REFRESH LOBBIES=刷新大廳
+
+Strongman=大力士
+You´re incredibly strong!\nPress R to continue=你非常強壯！\n按 R 繼續
+You can reach objects from far away!\nPress R to continue=你可以從遠處觸及物品！\n按 R 繼續
+Ranged Looter=遠程掠奪者
+Gambler=賭徒
+You rolled random effects: You don´t jump as high but you walk, crouch and run faster!\nPress R to continue=你獲得了隨機效果：你的跳躍高度降低，但步行、蹲伏和奔跑速度更快！\n按 R 繼續
+You walk slower but your hp is doubled!\nPress R to continue=你的移動速度變慢，但生命值翻倍！\n按 R 繼續
+Tank=坦克
+Mods=模組設定
+MUTED=<size\=24>目前靜音</size>
+r:"<line-height\=75%>(\d+)<color\=#7D250B> <size\=45>\/<\/size> <\/color><b>(\d+)\n<color\=#ff9600><size\=28>Level (\d+)<\/size><\/color><\/b>"=<line-height\=75%>$1<color\=#7D250B> <size\=45>/</size> </color><b>$2\n<color\=#ff9600><size\=28>第 $3 站</size></color></b>
+[F7] Decline=[F7] 拒絕
+[F6] Accept=[F6] 接受
+[F5] Open Privacy Policy=[F5] 打開隱私政策
+We do not store contact information, so we cannot directly inform you of any changes, however this prompt will popup any time we make any.\n\nVersion: 1.0.1\nLast Updated: 2025/3/10\nChanges: Newly drafted policy to clear some things up.\nLast Updated: 0 day(s) ago.=我們不存儲聯繫資訊，因此無法直接通知您任何更改，但每當我們有變更時，此提示將會彈出。\n\n版本：1.0.1\n上次更新：2025/3/10\n變更內容：新起草的政策，以釐清某些事項。\n最後更新：0 天前。
+Welcome to REPOStats! By using this mod, you agree to the privacy policy at https:\/\/repo.splitstats.io/privacypolicy.\n\n
+Game stats will be collected and uploaded during gameplay. Your response to the policy will be saved in the mod folder until you uninstall the mod or the policy changes.\n\n
+Manage or delete your data using tools on our website. Decline to close the game and uninstall the mod.=歡迎使用 REPOStats！\n透過使用此 MOD，您同意隱私政策（https:\/\/repo.splitstats.io/privacypolicy）。\n\n遊戲數據將在遊玩過程中收集並上傳。\n您對隱私政策的回應將儲存在 MOD 資料夾內，直到您卸載 MOD 或隱私政策變更。\n\n使用我們網站上的工具管理或刪除您的數據。\n拒絕將關閉遊戲並卸載 MOD。
+REPOStats=REPO 統計
+Rotate robot: A/D=旋轉：A/D
+CLOSE=關閉
+<color\=#FF0000>M</color><color\=#FF3300>O</color><color\=#FF6600>R</color><color\=#FF9900>E</color><color\=#FFCC00>H</color><color\=#FFDD00>E</color><color\=#FFEE00>A</color><color\=#FFFF00>D</color>=<color\=#FF0000></color><color\=#FF3300></color><color\=#FF6600>更</color><color\=#FF9900></color><color\=#FFCC00>多</color><color\=#FFDD00>裝</color><color\=#FFEE00>飾</color><color\=#FFFF00></color>
+r:"Players: (\d+)\/(\d+)"=玩家：$1/$2
+Found 13 runs in the REPOStats Database for you!=在 REPOStats 數據庫中為您找到了 13 次運行！
+Challenges are coming soon!=挑戰即將到來！
+Give suggestions on the R.E.P.O. Mods Discord=在 R.E.P.O. Mods Discord 提出建議
+Click here to join!=點擊此處加入！
+REPOStats Challenges=REPOStats 挑戰
+r:"^Map: (.+)$"=地圖總價值\n$1
+r:"\\r\\n\s*Extracted (.+) out of (.+)\\r\\n\s*(\d+) items out of (\d+)\\r\\n\\r\\n\s*Lost (.+) in value\\r\\n\s*(\d+) items broken \((\d+) hits\)\\r\\n"="回合總結：\r\n\r\n總提取 $1 / $2\r\n$4 個物品中的 $3 個\r\n\r\n損失價值 $5\r\n$6 個物品損壞 (總撞擊數 $7 下)"
+r:"<line-height\=75%>40\\n<color\=#ff9600><size\=28>Level (\d+)<\/size><\/color><\/b>"=<line-height\=75%>40\n<color\=#ff9600><size\=28>第 $1 站</size></color></b>
