@@ -23,7 +23,7 @@
 - MOD 檔案名稱：Kistras-Valuables_Scanner-1.0.4
 - 手動維護最後下載日期：2025-03-32
 
-### [TeamUpgrades](https://thunderstore.io/c/repo/p/XoFKon/REPO_Traditional_Chinese/)
+### [TeamUpgrades](https://thunderstore.io/c/repo/p/EvilCheetah/TeamUpgrades/)
     團隊升級
 - MOD 網站最後更新日期：
 - MOD 版本：1.1.4
