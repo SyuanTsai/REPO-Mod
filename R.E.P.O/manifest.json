@@ -1,0 +1,9 @@
+{
+  "name": "REPO_Traditional_Chinese",
+  "version_number": "1.0.7",
+  "website_url": "",
+  "description": "[R.E.P.O. 狐Kon 的繁體中文化]",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
