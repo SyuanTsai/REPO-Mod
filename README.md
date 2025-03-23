@@ -1,1 +1,24 @@
-# REPO-Mod
+# Warhammer-40-000-DARKTIDE-Mods
+
+# 基本必須安裝
+
+### [BepInEx](https://github.com/BepInEx/BepInEx)
+    基本模組、
+- MOD 網站最後更新日期：
+- MOD 版本：v5.4.23.2
+- MOD 檔案名稱：
+- 手動維護最後下載日期：2025-03-32
+
+### [REPO Traditional Chinese](https://thunderstore.io/c/repo/p/XoFKon/REPO_Traditional_Chinese/)
+    中文化
+- MOD 網站最後更新日期：
+- MOD 版本：1.0.7
+- MOD 檔案名稱：
+- 手動維護最後下載日期：2025-03-32
+
+### [Valuables Scanner](https://thunderstore.io/c/repo/p/XoFKon/REPO_Traditional_Chinese/)
+    貴重物品掃描儀
+- MOD 網站最後更新日期：
+- MOD 版本：1.0.4
+- MOD 檔案名稱：Kistras-Valuables_Scanner-1.0.4
+- 手動維護最後下載日期：2025-03-32
