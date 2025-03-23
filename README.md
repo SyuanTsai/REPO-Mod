@@ -29,3 +29,10 @@
 - MOD 版本：1.1.4
 - MOD 檔案名稱：EvilCheetah-TeamUpgrades-1.1.4
 - 手動維護最後下載日期：2025-03-32
+
+### [MorePlayers](https://thunderstore.io/c/repo/p/zelofi/MorePlayers/)
+    團隊升級
+- MOD 網站最後更新日期：
+- MOD 版本：1.0.4
+- MOD 檔案名稱：zelofi-MorePlayers-1.0.4
+- 手動維護最後下載日期：2025-03-32
