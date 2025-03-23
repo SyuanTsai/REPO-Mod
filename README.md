@@ -16,7 +16,7 @@
 - MOD 檔案名稱：
 - 手動維護最後下載日期：2025-03-32
 
-### [Valuables Scanner](https://thunderstore.io/c/repo/p/XoFKon/REPO_Traditional_Chinese/)
+### [Valuables Scanner](https://thunderstore.io/c/repo/p/Kistras/Valuables_Scanner/)
     貴重物品掃描儀
 - MOD 網站最後更新日期：
 - MOD 版本：1.0.4
