@@ -36,3 +36,10 @@
 - MOD 版本：1.0.4
 - MOD 檔案名稱：zelofi-MorePlayers-1.0.4
 - 手動維護最後下載日期：2025-03-32
+
+### [MoreShopItems](https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems/)
+    豪華商店
+- MOD 網站最後更新日期：
+- MOD 版本：1.0.4
+- MOD 檔案名稱：zelofi-MorePlayers-1.0.4
+- 手動維護最後下載日期：2025-03-32
