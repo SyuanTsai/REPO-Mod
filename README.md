@@ -45,8 +45,8 @@
 - 手動維護最後下載日期：2025-03-32
 
 ### [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
-    豪華商店
+    延遲加入
 - MOD 網站最後更新日期：
-- MOD 版本：1.0.4
+- MOD 版本：0.1.2
 - MOD 檔案名稱：zelofi-MorePlayers-1.0.4
 - 手動維護最後下載日期：2025-03-24
