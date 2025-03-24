@@ -50,3 +50,12 @@
 - MOD 版本：0.1.2
 - MOD 檔案名稱：Rebateman-LateJoin-0.1.2
 - 手動維護最後下載日期：2025-03-24
+- MOD 檔案名稱：zelofi-MorePlayers-1.0.4
+- 手動維護最後下載日期：2025-03-24
+
+### [MoreReviveHP](https://thunderstore.io/c/repo/p/Tidaleus/MoreReviveHP/)
+    復活時的初始HP
+- MOD 網站最後更新日期：
+- MOD 版本：1.0.1
+- MOD 檔案名稱：Tidaleus-MoreReviveHP-1.0.1
+- 手動維護最後下載日期：2025-03-24
