@@ -59,3 +59,10 @@
 - MOD 版本：1.0.1
 - MOD 檔案名稱：Tidaleus-MoreReviveHP-1.0.1
 - 手動維護最後下載日期：2025-03-24
+
+### [Shop Items Spawn in Level](https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/)
+    遊戲中隨機升級
+- MOD 網站最後更新日期：
+- MOD 版本：1.3.6
+- MOD 檔案名稱：itsUndefined-Shop_Items_Spawn_in_Level-1.2.5
+- 手動維護最後下載日期：2025-03-24
